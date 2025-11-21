@@ -185,7 +185,6 @@ Fully transformer-driven approach suited for semantic similarity.
 
 - Incorporates metric embeddings directly  acts like metric learning.
 Skewed distributions are addressed by weighted sampling.
-Limitations
 
 
 ---
